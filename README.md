@@ -1,1 +1,1 @@
-# sales_prediction
+# Exploratory Data Analysis On Sales prediction
